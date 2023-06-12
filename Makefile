@@ -1,4 +1,4 @@
-TARGET_EXEC = <EXE>
+TARGET_EXEC = <EXEC>
 CC = clang++
 
 SRC = $(wildcard src/*.cpp) $(wildcard src/**/*.cpp) $(wildcard src/**/**/*.cpp) $(wildcard src/**/**/**/*.cpp)
